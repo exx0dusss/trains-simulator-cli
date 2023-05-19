@@ -1,0 +1,100 @@
+Acetic acid
+Acetone cyanohydrin
+Acrolein
+Acrylamide
+Acrylonitrile
+Allyl alcohol
+Aniline
+Antimony trichloride
+Arsenic acid
+Barium chloride
+Benzaldehyde
+Benzene
+Benzo(a)pyrene
+Benzyl chloride
+Beryllium chloride
+Boric acid
+Butadiene
+Butane (inhalation hazard)
+Butyl acetate (inhalation hazard)
+Butylamine
+Cadmium chloride
+Carbon disulfide
+Carbon tetrachloride
+Chlorobenzene
+Chloroform
+Chloroprene
+Chromic acid
+Cobalt chloride
+Copper sulfate
+Cresol
+Cyanide
+Cyclohexane
+Cyclohexanol
+Cyclohexanone
+DDT
+Dibutyl phthalate
+Dichloroacetic acid
+Dichlorobenzene
+Dichloroethane
+Dichloromethane
+Dioxane
+Diuron
+Epichlorohydrin
+Ethanolamine
+Ethyl acetate (inhalation hazard)
+Ethylbenzene
+Ethylene glycol
+Ethylene oxide
+Fluorine gas
+Formaldehyde
+Formic acid
+Freon
+Glutaraldehyde
+Glycol ethers
+Hexachlorobutadiene
+Hexachlorocyclopentadiene
+Hexane (inhalation hazard)
+Hydrochloric acid
+Hydrocyanic acid
+Hydrofluoric acid
+Hydrogen peroxide (in high concentrations)
+Hydrogen sulfide
+Isobutyl acetate (inhalation hazard)
+Lead acetate
+Maleic anhydride
+Malathion
+Methyl acetate (inhalation hazard)
+Methyl alcohol
+Methyl bromide
+Methyl chloride
+Methyl ethyl ketone (inhalation hazard)
+Methyl isobutyl ketone (inhalation hazard)
+Methyl methacrylate (inhalation hazard)
+Methylene diphenyl diisocyanate
+Methylene chloride
+Nickel carbonyl
+Nitric acid
+Nitrobenzene
+Nitrogen dioxide
+Nonylphenol ethoxylates
+Pentachlorophenol
+Perchloric acid
+Perchloroethylene
+Phenol
+Phosphoric acid
+Phthalic anhydride
+Propionic acid
+Propylene oxide
+Pyridine
+Selenium
+Silver nitrate
+Sodium cyanide
+Styrene
+Sulfur dioxide
+Sulfuric acid
+Tetrachloroethylene
+Thionyl chloride
+Toluene
+Trichloroacetic acid
+Xylene (inhalation hazard)

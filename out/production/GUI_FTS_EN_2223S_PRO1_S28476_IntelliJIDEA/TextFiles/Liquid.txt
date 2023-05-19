@@ -1,0 +1,100 @@
+Water
+Ethanol
+Methanol
+Isopropanol
+Acetone
+Benzene
+Toluene
+Xylene
+Hexane
+Heptane
+Octane
+Nonane
+Decane
+Undecane
+Dodecane
+Tridecane
+Tetradecane
+Pentadecane
+Hexadecane
+Heptadecane
+Octadecane
+Nonadecane
+Eicosane
+Tetrachloroethylene
+Dichloromethane
+Trichloroethylene
+Chloroform
+Carbon tetrachloride
+Perchloroethylene
+Glycerol
+Propylene glycol
+Ethylene glycol
+Mineral oil
+Olive oil
+Sunflower oil
+Corn oil
+Peanut oil
+Coconut oil
+Palm oil
+Soybean oil
+Castor oil
+Fish oil
+Honey
+Syrup
+Vinegar
+Milk
+Cream
+Yogurt
+Cheese
+Tomato sauce
+Ketchup
+Mayonnaise
+Salad dressing
+Soy sauce
+Worcestershire sauce
+Lemon juice
+Orange juice
+Grapefruit juice
+Apple juice
+Pineapple juice
+Cranberry juice
+Grape juice
+Beer
+Wine
+Whiskey
+Rum
+Vodka
+Tequila
+Gin
+Brandy
+Carbonated water
+Lemon-lime soda
+Cola
+Ginger ale
+Root beer
+Orange soda
+Grape soda
+Cherry soda
+Sports drink
+Energy drink
+Coffee
+Tea
+Hot chocolate
+Maple syrup
+Molasses
+Chocolate syrup
+Honey mustard sauce
+Barbecue sauce
+Teriyaki sauce
+Salsa
+Alfredo sauce
+Marinara sauce
+Ranch dressing
+Caesar dressing
+Balsamic vinaigrette
+Red wine vinegar
+White wine vinegar
+Soy milk
+Almond milk
+Coconut milk

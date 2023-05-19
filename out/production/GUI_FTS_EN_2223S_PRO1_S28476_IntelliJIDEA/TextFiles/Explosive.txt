@@ -1,0 +1,99 @@
+TNT (trinitrotoluene)
+C-4 (Composition C-4)
+RDX (cyclotrimethylenetrinitramine)
+PETN (pentaerythritol tetranitrate)
+HMX (cyclotetramethylenetetranitramine)
+ANFO (ammonium nitrate/fuel oil)
+Nitroglycerin
+Dynamite
+Ammonium perchlorate composite propellant (APCP)
+Black powder (gunpowder)
+TATP (triacetone triperoxide)
+Dinitrogen pentoxide (N2O5)
+Nitrogen triiodide (NI3)
+Lead azide (LA)
+Lead styphnate (LS)
+Mercury fulminate
+Hexanitrohexaazaisowurtzitane (HNIW or CL-20)
+Octogen (HMX)
+Hexogen (RDX)
+Nitrocellulose
+Nitroguanidine (NQ)
+Dibenzylamine nitrate (DBX)
+Cyclotol
+Hexamethylene triperoxide diamine (HMTD)
+Hydrazine nitrate (HN)
+Triethylaluminum (TEA)
+Aluminum powder
+Silicon powder
+Sodium azide
+Sodium chlorate
+Potassium chlorate
+Potassium perchlorate
+Calcium carbide
+Lithium aluminum hydride (LAH)
+Magnesium powder
+Ferrosilicon powder
+Zinc dust
+Titanium powder
+Iron powder
+Iron oxide
+Nickel powder
+Copper powder
+Cobalt powder
+Silver azide
+Silver acetylide
+Silver fulminate
+Silver nitride
+Copper acetylide
+Copper fulminate
+Copper azide
+Cobalt carbonyl
+Ammonium picrate
+Barium nitrate
+Potassium nitrate
+Sodium nitrate
+Strontium nitrate
+Lead nitrate
+Magnesium nitrate
+Bismuth trioxide
+Boron powder
+Diborane
+Hydrogen peroxide
+Ethylene oxide
+Acetylene
+Propylene oxide
+Isopropyl nitrate
+Methyl nitrate
+Nitromethane
+Ethanolamine nitrate
+Isosorbide dinitrate (ISDN)
+Glyceryl trinitrate (GTN)
+Diethylene glycol dinitrate (DEGDN)
+Ethylene glycol dinitrate (EGDN)
+Trimethylene trinitrate (TMTN)
+Tetranitromethane
+Tetrazene
+Triazene
+Triazolone
+Xylitol pentanitrate (XPN)
+Hexanitrostilbene (HNS)
+Hexanitroethane (HNE)
+Picryl chloride (trichloronitromethane)
+Peroxymonosulfuric acid (Caro's acid)
+Peroxydisulfuric acid (Marshall's acid)
+Acetyl nitrate
+Dinitrobenzene
+Nitrobenzene
+TNT mixed with ammonium nitrate (amatol)
+TNT mixed with aluminum powder (aluminized TNT)
+TNT mixed with wax (torpex)
+TNT mixed with RDX (composition B)
+RDX mixed with wax (cyclotol)
+RDX mixed with aluminum powder (aluminized RDX)
+RDX mixed with TNT (octol)
+PETN mixed with wax (pentolite)
+HMX mixed with TNT (octol)
+HMX mixed with RDX (cyclotol)
+HMX mixed with aluminum powder (aluminized HMX)
+Tetryl

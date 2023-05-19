@@ -1,0 +1,100 @@
+Water
+Milk
+Coffee
+Tea
+Hot Chocolate
+Orange Juice
+Apple Juice
+Pineapple Juice
+Grape Juice
+Lemonade
+Limeade
+Cranberry Juice
+Tomato Juice
+Carrot Juice
+Beet Juice
+Grapefruit Juice
+Mango Juice
+Pomegranate Juice
+Coconut Water
+Kombucha
+Energy Drinks
+Sports Drinks
+Lemon Water
+Lime Water
+Mint Lemonade
+Mint Tea
+Cucumber Water
+Ginger Tea
+Chai Tea
+Bubble Tea
+Matcha Green Tea
+Iced Coffee
+Iced Tea
+Smoothies
+Protein Shakes
+Milkshakes
+Frappuccino
+Cappuccino
+Latte
+Americano
+Espresso
+Red Bull
+Coca-Cola
+Pepsi
+Sprite
+Dr. Pepper
+Mountain Dew
+Fanta
+Crush Soda
+Ginger Ale
+Root Beer
+Club Soda
+Tonic Water
+Shirley Temple
+Arnold Palmer
+Long Island Iced Tea
+Margarita
+Daiquiri
+Piña Colada
+Bloody Mary
+Mojito
+Cosmopolitan
+Manhattan
+Martini
+Old Fashioned
+Whiskey Sour
+Gin and Tonic
+Rum and Coke
+Vodka Cranberry
+Tequila Sunrise
+Blue Lagoon
+Sex on the Beach
+Moscow Mule
+Wine Spritzer
+Sangria
+Mulled Wine
+Mimosa
+Bellini
+Champagne
+Beer
+Lager
+IPA
+Stout
+Porter
+Wheat Beer
+Pilsner
+Hefeweizen
+Sour Beer
+Belgian Ale
+Trappist Beer
+Scotch Ale
+Oktoberfest Beer
+Sake
+Soju
+Baijiu
+Rice Wine
+Whiskey
+Scotch
+Bourbon
+Cognac
